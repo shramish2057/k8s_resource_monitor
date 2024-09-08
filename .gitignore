@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+build/
+k8s_monitor.egg-info/
+k8s_resource_monitor.egg-info/
