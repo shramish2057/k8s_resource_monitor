@@ -1,12 +1,11 @@
 <h1 align="center">
 K8s Resource Monitor ☸
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Kubernetes Resource Monitor" style="width: 200px; height: 44px;" width="200" height="44" /></a>
 </h1>
 <div align="center">
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/shramish2057/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
+<a href="https://arbeitnow.com/?utm_source=k8s_resource_monitor"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<!-- <img src="http://hits.dwyl.com/shramish2057/k8s_resource_monitor.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/shramish2057" ><img src="https://img.shields.io/twitter/follow/shramish2057.svg?style=social" /> </a>
@@ -14,12 +13,12 @@ K8s Resource Monitor ☸
 
 <i>Monitor the Kubernetes resources your way !</i>
 
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/shramish2057/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/shramish2057/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/shramish2057/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/shramish2057/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shramish2057/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/shramish2057/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/shramish2057/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/stargazers"><img src="https://img.shields.io/github/stars/shramish2057/k8s_resource_monitor" alt="Stars Badge"/></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/network/members"><img src="https://img.shields.io/github/forks/shramish2057/k8s_resource_monitor" alt="Forks Badge"/></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/pulls"><img src="https://img.shields.io/github/issues-pr/shramish2057/k8s_resource_monitor" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/issues"><img src="https://img.shields.io/github/issues/shramish2057/k8s_resource_monitor" alt="Issues Badge"/></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/shramish2057/k8s_resource_monitor?color=2b9348"></a>
+<a href="https://github.com/shramish2057/k8s_resource_monitor/blob/master/LICENSE"><img src="https://img.shields.io/github/license/shramish2057/k8s_resource_monitor?color=2b9348" alt="License Badge"/></a>
 
 <img alt="K8s Resource Monitor Readme" src="assets/agpr.gif"> </img>
 
