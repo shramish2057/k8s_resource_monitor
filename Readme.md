@@ -46,7 +46,26 @@ A CLI tool for monitoring and managing Kubernetes resources. This tool provides 
 - Basic knowledge of Kubernetes pods and deployments
 
 ## Setup Instructions
+### 1. Install k8s-resource-monitor using homebrew tap
+```bash
+brew tap shramish2057/k8s-monitor
+brew install k8s_resource_monitor
+k8s_resource_monitor --version
+```
+To see all the available commands:
+```bash
+k8s_resource_monitor --help
+```
+Basic commands usage:
+```bash
+k8s_resource_monitor monitor --namespace <your-namespace>
+k8s_resource_monitor auto-scale --namespace <your-namespace>
+k8s_resource_monitor visualize-trends --namespace <your-namespace> --pod-name <your-pod-name> --duration <minutes>
+k8s_resource_monitor set-config --slack-webhook-url <your-slack-url> --email-host <your-email-host> ...
+```
 
+
+## Setting the Project locally
 ### 2. Create a Virtual Environment
 
 ```bash
