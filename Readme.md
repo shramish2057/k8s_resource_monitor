@@ -22,7 +22,7 @@ K8s Resource Monitor ☸
 
 <img alt="K8s Resource Monitor Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/shramishkafle) to help it improve!</i>
+<i>Liked the project? We'd love your contributions! Help us make it even better!</i>
 
 </div>
 
